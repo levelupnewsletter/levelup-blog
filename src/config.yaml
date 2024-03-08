@@ -1,31 +1,32 @@
 site:
-  name: AstroWind
+  name: 'Level Up'
   # site: 'https://astrowind.vercel.app'
-  site: 'https://levelupnewsletter.github.io'
-  base: '/levelup-blog'
+  # site: 'https://levelupnewsletter.github.io'
+  site: 'https://levelup.news'
+  base: '/'
   trailingSlash: false
 
-  googleSiteVerificationId: orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M
+  googleSiteVerificationId: null
 
 # Default SEO metadata
 metadata:
   title:
-    default: AstroWind
-    template: '%s — AstroWind'
+    default: Level Up
+    template: '%s — Level up'
   description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: AstroWind
+    site_name: 'Level Up'
     images:
       - url: '~/assets/images/default.png'
         width: 1200
         height: 628
     type: website
   twitter:
-    handle: '@onwidget'
-    site: '@onwidget'
+    handle: '@pseudokid'
+    site: '@pseudokid'
     cardType: summary_large_image
 
 i18n:

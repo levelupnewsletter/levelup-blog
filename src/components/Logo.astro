@@ -1,7 +1,18 @@
 ---
 import { SITE } from '~/utils/config';
+import Image from './common/Image.astro';
 ---
 
-<span class="self-center ml-2 rtl:ml-0 rtl:mr-2 text-2xl md:text-xl font-bold text-gray-900 whitespace-nowrap dark:text-white">
-  🚀 {SITE?.name}
+<Image
+  src="https://res.cloudinary.com/dxsornfee/image/upload/v1709772650/Level_UP_2_urnfaq.png"
+  alt="logo"
+  class="mx-auto w-full"
+  width="50"
+  height="50"
+/>
+<span
+  class="self-center ml-2 rtl:ml-0 rtl:mr-2 text-2xl md:text-xl font-bold text-gray-900 whitespace-nowrap dark:text-white"
+>
+  <!-- {SITE?.name} -->
+  Founders!
 </span>

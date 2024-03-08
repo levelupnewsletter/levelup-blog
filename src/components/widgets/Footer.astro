@@ -36,11 +36,12 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '', theme 
         </div>
         <div class="text-sm text-muted">
           {
-            secondaryLinks.map(({ text, href }) => (
+            secondaryLinks.map(({ text, href, ...secondaryLinkProps }) => (
               <a
                 class="text-muted hover:text-gray-700 dark:text-gray-400 hover:underline transition duration-150 ease-in-out mr-2 rtl:mr-0 rtl:ml-2"
                 href={href}
                 set:html={text}
+                {...secondaryLinkProps}
               />
             ))
           }
@@ -52,12 +53,13 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '', theme 
             <div class="dark:text-gray-300 font-medium mb-2">{title}</div>
             {links && Array.isArray(links) && links.length > 0 && (
               <ul class="text-sm">
-                {links.map(({ text, href, ariaLabel }) => (
+                {links.map(({ text, href, ariaLabel, ...linkProps }) => (
                   <li class="mb-2">
                     <a
                       class="text-muted hover:text-gray-700 hover:underline dark:text-gray-400 transition duration-150 ease-in-out"
                       href={href}
                       aria-label={ariaLabel}
+                      {...linkProps}
                     >
                       <Fragment set:html={text} />
                     </a>
