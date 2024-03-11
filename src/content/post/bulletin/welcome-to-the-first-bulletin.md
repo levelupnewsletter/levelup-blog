@@ -64,7 +64,7 @@ _NOTE: We will backtrack on Jan-Feb in the future newsletter bulletins._
 
 While good numbers across various facets are great, it does not tell the whole story.
 
-[recaps.fyi](http://recaps.fyi) is still finding its way to the market.
+[recaps.fyi](http://recaps.fyi) is still finding its way on the market.
 
 The biggest lesson to learn here is that, while spamming "[recaps.fyi](http://recaps.fyi)" on each of my post is effective on getting traffic, I wonder if there is a better way to do it.
 
