@@ -21,7 +21,7 @@ Hello, readers!
 
 Welcome to the first bulletin of Level Up Newsletter! **[👏](https://emojipedia.org/clapping-hands)**
 
-If you get this in your inbox, please consider this a my token of gratitude. You are one of the first 30 people who subscribed to this newsletter.
+If you get this in your inbox, please consider this as my token of gratitude. You are one of the first 30 people who subscribed to this newsletter.
 
 Yes, we are **30-strong now.** Wohoo! **[🙌](https://emojipedia.org/raising-hands)**  I promise, we will all look back in this bulletin and look in awe of what our newsletter has become. **[🤞](https://emojipedia.org/crossed-fingers)**
 
