@@ -13,7 +13,7 @@ metadata:
   title:
     default: Level Up
     template: '%s — Level up'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+  description: "\U0001F680 Blog for Founders Levelling Up!"
   robots:
     index: true
     follow: true
