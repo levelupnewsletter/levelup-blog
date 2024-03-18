@@ -10,12 +10,6 @@ metadata:
   canonical: https://levelup.news/blog/are-all-founders-unconventional
 ---
 
-<!-- <span class="text-sm">
-
-Photo by <a href="https://unsplash.com/@markusspiske?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Markus Spiske</a> on <a href="https://unsplash.com/photos/black-and-white-number-2-bDI4HdLsIe4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-
-</span> -->
-
 What makes you an unconventional founder?
 
 Unconventional practices?
