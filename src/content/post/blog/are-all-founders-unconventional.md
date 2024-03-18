@@ -65,4 +65,4 @@ _Raymel_
 Thank you for being part of the Level Up community! Before you go:
 
 - Follow me on [Twitter](https://twitter.com/pseudokid)
-- Subscribe to [Level Up, Founders! newsletter](https://levelup.news) for more content
+- <a href="#" data-eo-form-toggle-id="adf19cae-dd6a-11ee-97ab-2b51af71a780">Subscribe to the newsletter</a> to not miss any new blog posts
