@@ -17,13 +17,19 @@ Photo from livestream <a href="https://www.youtube.com/watch?v=Y2F8yisiS6E">GTC 
 
 </span>
 
-NVIDIA GTC just happened. The 3-hour [live stream](https://www.youtube.com/watch?v=Y2F8yisiS6E) is wrapped up by showcasing a WALL-E like robot, in real life.
+NVIDIA GTC just happened. The 3-hour [live stream](https://www.youtube.com/watch?v=Y2F8yisiS6E) is wrapped by showcasing a WALL-E like robot, in real life.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">WALL-E in real life<a href="https://twitter.com/hashtag/GTC24?src=hash&amp;ref_src=twsrc%5Etfw">#GTC24</a> <a href="https://twitter.com/hashtag/NVIDIA?src=hash&amp;ref_src=twsrc%5Etfw">#NVIDIA</a> <a href="https://t.co/WpwlvONrYN">https://t.co/WpwlvONrYN</a> <a href="https://t.co/lXZfNX1FZK">pic.twitter.com/lXZfNX1FZK</a></p>&mdash; Raymel is building in public 🚀 (@pseudokid) <a href="https://twitter.com/pseudokid/status/1769846136486150580?ref_src=twsrc%5Etfw">March 18, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [See my Tweet showing how they wrapped it up](https://twitter.com/pseudokid/status/1769846136486150580)
 
-NVIDIA just unleashed all the key partnerships and key updates to their products. The main focus is expected: AI. Without further ado, let's jump right into the keynote highlights.
+Aside from the "world's most powerful chip" revelation,
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨Nvidia reveals Blackwell B200 GPU, the ‘world’s most powerful chip’ for AI. <br>I think their stocks will rise to the sky.🔥 <a href="https://twitter.com/hashtag/NVIDIA?src=hash&amp;ref_src=twsrc%5Etfw">#NVIDIA</a> <br> <a href="https://t.co/a91v6AcB7K">pic.twitter.com/a91v6AcB7K</a></p>&mdash; Tomas Maixner | Neuralbyte (@TomMaixner) <a href="https://twitter.com/TomMaixner/status/1769835758456590480?ref_src=twsrc%5Etfw">March 18, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+_[See Tweet: "🚨Nvidia reveals Blackwell B200 GPU, the ‘world’s most powerful chip’ for AI..."](https://twitter.com/TomMaixner/status/1769835758456590480)_
+
+NVIDIA also unleashed all the key partnerships and key updates to their products. The main focus is expected: AI. Without further ado, let's jump right into the keynote highlights.
 
 Keynote highlights:
 
