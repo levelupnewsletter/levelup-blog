@@ -1,5 +1,5 @@
 ---
-publishDate: 2024-03-11T23:02:00+00:00
+publishDate: 2024-03-19T06:00:00+00:00
 title: 'Level Up: Bulletin No. 2'
 excerpt: Welcome to the second bulletin of Level Up Newsletter! NVIDIA GTC 2024 is here!
 image: https://res.cloudinary.com/dxsornfee/image/upload/v1710804039/huge_1_yy3mq1.png
