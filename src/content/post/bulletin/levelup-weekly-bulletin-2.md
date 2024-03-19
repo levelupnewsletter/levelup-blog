@@ -44,7 +44,7 @@ They wrapped it up by showcasing a WALL-E like robot, in real life.
 
 [More NVIDIA GTC](https://www.nvidia.com/gtc/) -->
 
-_[In fact, I made a separate blog post for NVIDIA GTC 2024](https://www.nvidia.com/gtc/)_
+_[In fact, I made a separate blog post for NVIDIA GTC 2024](/blog/nvidia-gtc-2024-highlights)_
 
 #### Let's proceed on the other tech news:
 
@@ -73,7 +73,7 @@ _[In fact, I made a separate blog post for NVIDIA GTC 2024](https://www.nvidia.c
 
 - My piece on being an unconventional founder:
 
-  [Are all founders unconventional?](https://levelup.news/blog/are-all-founders-unconventional)
+  [Are all founders unconventional?](/blog/are-all-founders-unconventional)
 
 ### Handpicked tweets from the indiehacking community
 
@@ -91,7 +91,7 @@ _[See Tweet: "I love Twitter. But when distributing your SaaS Linkedin is at lea
 
 This feels like a throwback when Facebook is full of Flash games.
 
-> Back in my day I rent PCs to play FarmVille, Ninja Saga, Tetris Battle, you name it.
+> Back in my day I rent PCs to play FarmVille, Ninja Saga, Tetris Battle, you name it. - Me in 2010
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This would be interesting. While you search for jobs and get hyper-tensed, games are there to ease off the pressure.<br><br>I think the subtitle, &quot;No, not mind games from professional employers.&quot; 🤓 <a href="https://t.co/r0ygoQkJpq">pic.twitter.com/r0ygoQkJpq</a></p>&mdash; Vivek Naskar (@vivek_naskar) <a href="https://twitter.com/vivek_naskar/status/1769241882717200706?ref_src=twsrc%5Etfw">March 17, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
