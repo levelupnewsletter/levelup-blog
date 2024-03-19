@@ -44,7 +44,7 @@ They finished the keynote by showcasing a WALL-E like robot, in real life.
 
 [More NVIDIA GTC](https://www.nvidia.com/gtc/) -->
 
-_[In fact, I made a separate blog post for NVIDIA GTC 2024](/blog/nvidia-gtc-2024-highlights)_
+_[In fact, I made a separate blog post for NVIDIA GTC 2024](/news/nvidia-gtc-2024-highlights)_
 
 #### Let's proceed on the other tech news:
 

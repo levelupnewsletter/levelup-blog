@@ -8,7 +8,7 @@ tags:
   - ai
 category: news
 metadata:
-  canonical: https://levelup.news/blog/nvidia-gtc-2024-highlights
+  canonical: https://levelup.news/news/nvidia-gtc-2024-highlights
 ---
 
 <span class="text-sm">
