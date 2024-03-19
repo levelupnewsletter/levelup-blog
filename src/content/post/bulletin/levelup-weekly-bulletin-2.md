@@ -34,11 +34,11 @@ _NOTE: Monthly learnings will come on the monthly edition, 2 bulletins from now_
 
 NVIDIA GTC just happened. In fact, I watched a glimpse of the [live stream](https://www.youtube.com/watch?v=Y2F8yisiS6E)
 
-They wrapped it up by showcasing a WALL-E like robot, in real life.
+They finished the keynote by showcasing a WALL-E like robot, in real life.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">WALL-E in real life<a href="https://twitter.com/hashtag/GTC24?src=hash&amp;ref_src=twsrc%5Etfw">#GTC24</a> <a href="https://twitter.com/hashtag/NVIDIA?src=hash&amp;ref_src=twsrc%5Etfw">#NVIDIA</a> <a href="https://t.co/WpwlvONrYN">https://t.co/WpwlvONrYN</a> <a href="https://t.co/lXZfNX1FZK">pic.twitter.com/lXZfNX1FZK</a></p>&mdash; Raymel is building in public 🚀 (@pseudokid) <a href="https://twitter.com/pseudokid/status/1769846136486150580?ref_src=twsrc%5Etfw">March 18, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[See my Tweet showing how they wrapped it up](https://twitter.com/pseudokid/status/1769846136486150580)
+[See my Tweet showing how they finished the keynote](https://twitter.com/pseudokid/status/1769846136486150580)
 
 <!-- [More on NVIDIA GTC](https://nvidianews.nvidia.com/online-press-kit/gtc-2024-news)
 
