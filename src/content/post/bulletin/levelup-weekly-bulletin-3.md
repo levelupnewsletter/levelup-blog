@@ -89,7 +89,7 @@ UN and AI
 
 _[ICMYI: NVIDIA GTC 2024 Highlights](/news/nvidia-gtc-2024-highlights)_
 
-#### Let's proceed on the other tech news:
+#### Let's proceed on other tech news:
 
 - [Open-sourcing our progress on Tailwind CSS v4.0](https://tailwindcss.com/blog/tailwindcss-v4-alpha)
 
