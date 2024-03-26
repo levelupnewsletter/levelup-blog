@@ -167,6 +167,10 @@ Wherever you are in your journey, just keep going
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">🥰 Thanks everyone for your support today! It&#39;s time for me to give back 🙏<br><br>It took me 4 long years to launch a product.<br><br>As someone starting out, indie hacking felt like wandering without a map, leaving me second-guessing every move.<br><br>If you&#39;re facing the same, I&#39;d like to help… <a href="https://t.co/Wo8IM1AQy5">pic.twitter.com/Wo8IM1AQy5</a></p>&mdash; Just (@justfizzbuzz) <a href="https://twitter.com/justfizzbuzz/status/1772214385966039177?ref_src=twsrc%5Etfw">March 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+For anyone who wants to do YouTube:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My YouTube subscribers doubled in 7 days.<br><br>What I learned:<br><br>(ongoing thread) <a href="https://t.co/vljG6lSXE1">pic.twitter.com/vljG6lSXE1</a></p>&mdash; Marc Lou (@marc_louvion) <a href="https://twitter.com/marc_louvion/status/1772605683365781582?ref_src=twsrc%5Etfw">March 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Handpicked content for developers
 
 - [Marking the Web’s 35th Birthday: An Open Letter from Tim Berners-Lee](https://webfoundation.org/2024/03/marking-the-webs-35th-birthday-an-open-letter/)
