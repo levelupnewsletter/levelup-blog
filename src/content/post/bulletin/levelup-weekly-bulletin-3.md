@@ -159,6 +159,10 @@ Top-tier idea from Sarwech
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Giving away an idea:<br><br>Someone should make a tool that shows you top indie hackers *and* links to exactly how they did it. <br><br>Call it Receipts 👀 <br><br>Guaranteed to be a success. A bunch of good domains are even available for it.<br><br>You’re welcome. 😉 <a href="https://twitter.com/hashtag/buildinpublic?src=hash&amp;ref_src=twsrc%5Etfw">#buildinpublic</a></p>&mdash; sarwech (@starwardshar) <a href="https://twitter.com/starwardshar/status/1772199024772182082?ref_src=twsrc%5Etfw">March 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+Goldmine thread, with a real-life example from Jordan
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This one really resonates. I tested my very first Founders Owl offering for $7 with no intention of money making at that point. <br><br>Then I increased it 5 times. <br><br>My parameters for increasing:<br><br>📈 Volume - applicable for 10 sales @ price points of $7 and $14 <br><br>HOWEVER. As prices… <a href="https://t.co/p2tQKPrS47">https://t.co/p2tQKPrS47</a></p>&mdash; Jordan M (@DevMolone) <a href="https://twitter.com/DevMolone/status/1772686749690474986?ref_src=twsrc%5Etfw">March 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Handpicked content for developers
 
 - [Marking the Web’s 35th Birthday: An Open Letter from Tim Berners-Lee](https://webfoundation.org/2024/03/marking-the-webs-35th-birthday-an-open-letter/)
