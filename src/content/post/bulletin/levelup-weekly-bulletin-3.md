@@ -163,6 +163,10 @@ Goldmine thread, with a real-life example from Jordan
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This one really resonates. I tested my very first Founders Owl offering for $7 with no intention of money making at that point. <br><br>Then I increased it 5 times. <br><br>My parameters for increasing:<br><br>📈 Volume - applicable for 10 sales @ price points of $7 and $14 <br><br>HOWEVER. As prices… <a href="https://t.co/p2tQKPrS47">https://t.co/p2tQKPrS47</a></p>&mdash; Jordan M (@DevMolone) <a href="https://twitter.com/DevMolone/status/1772686749690474986?ref_src=twsrc%5Etfw">March 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+Wherever you are in your journey, just keep going
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🥰 Thanks everyone for your support today! It&#39;s time for me to give back 🙏<br><br>It took me 4 long years to launch a product.<br><br>As someone starting out, indie hacking felt like wandering without a map, leaving me second-guessing every move.<br><br>If you&#39;re facing the same, I&#39;d like to help… <a href="https://t.co/Wo8IM1AQy5">pic.twitter.com/Wo8IM1AQy5</a></p>&mdash; Just (@justfizzbuzz) <a href="https://twitter.com/justfizzbuzz/status/1772214385966039177?ref_src=twsrc%5Etfw">March 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### Handpicked content for developers
 
 - [Marking the Web’s 35th Birthday: An Open Letter from Tim Berners-Lee](https://webfoundation.org/2024/03/marking-the-webs-35th-birthday-an-open-letter/)
