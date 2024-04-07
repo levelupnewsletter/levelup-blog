@@ -16,6 +16,10 @@ For those who subscribed on my newsletter, it is pretty common to see handpicked
 
 On this article, I am sharing parts of my workflow on handpicking tweets.
 
+> **Featured Product:** [500k.agency](https://500k.agency) is your practical guide in building Solo Dev Agencies. Use code _MICROLAUNCH_ for 20% off your purchase. 🚀
+>
+> Head to [500k.agency](https://500k.agency) to learn more. 🚀
+
 ### Reducing Friction
 
 The focal point of my workflow is reducing friction as I can. As you can guess, the handpicked tweets are handpicked with ease.
@@ -92,6 +96,10 @@ That's it.
 I will share updates of my workflow, as I continue to improve my automation workflows.
 
 If you find this helpful, feel free to share it to your friends!
+
+> **Featured Product:** [500k.agency](https://500k.agency) is your practical guide in building Solo Dev Agencies. Use code _MICROLAUNCH_ for 20% off your purchase. 🚀
+>
+> Head to [500k.agency](https://500k.agency) to learn more. 🚀
 
 ---
 
