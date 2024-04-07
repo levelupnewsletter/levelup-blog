@@ -29,7 +29,7 @@ Thank for your support! 🙏
 2. [Weekly curated tech news - Featuring XZ Backdoor](#weekly-curated-tech-news---featuring-xz-backdoor)
 3. [Handpicked tweets from the tech community](#handpicked-tweets-from-the-tech-community)
 4. [BONUS: April Fools tweets you missed](#bonus-april-fools-tweets-you-missed)
-5. [NEW: How I handpick tweets for my bulletins](../blog/how-i-handpick-tweets-for-my-bulletins)
+5. [NEW: How I handpick tweets for my bulletins](https://levelup.news/blog/how-i-handpick-tweets-for-my-bulletins)
 
 _ICYMI:_ [_Welcome to the first bulletin of Level Up Newsletter!_](http://levelup.news/bulletin/welcome-to-the-first-bulletin)
 
@@ -256,7 +256,7 @@ Enjoy!
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Finally, I am acquiring Product Hunt.</p>&mdash; Nie (@niepreneur) <a href="https://twitter.com/niepreneur/status/1774712648283853032?ref_src=twsrc%5Etfw">April 1, 2024</a></blockquote>
 
-_[NEW: How I handpick tweets for my bulletins](../blog/how-i-handpick-tweets-for-my-bulletins)_
+_[NEW: How I handpick tweets for my bulletins](https://levelup.news/blog/how-i-handpick-tweets-for-my-bulletins)_
 
 > **Featured Product:** [500k.agency](https://500k.agency) is your practical guide in building Solo Dev Agencies. Use code _MICROLAUNCH_ for 20% off your purchase. 🚀
 >
