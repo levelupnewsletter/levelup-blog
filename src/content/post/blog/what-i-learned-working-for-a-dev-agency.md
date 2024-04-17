@@ -16,7 +16,7 @@ Photo by <a href="https://unsplash.com/@priscilladupreez?utm_content=creditCopyT
 
 Maybe you're a new dev, or an aspiring one, or simply deciding which path to take.
 
-Is it really true that working on a dev agency allows you to experience it all? Is it that enough to consider it a legitimate path?
+Is it really true that working on a dev agency allows you to experience it all? Is that enough to consider it a legitimate path?
 
 Let me share my experience with you:
 
