@@ -31,9 +31,9 @@ Field work is one of my favorites.
 One memorable moment I had was visiting the students of an indigenous institution. It's when our dev agency helped our client launch a literacy app in partnership of the indigenous institution itself.
 
 <div class="grid grid-cols-3 gap-1">
-  <img src="https://lh3.googleusercontent.com/pw/AP1GczPFTmL4-OrlJYGkxhHjaxehTCDmNCF8V-liDhj5xYV821ktrDNWJPKBU8JMGX2tQ1KWRgxeBDtqGOfSIXEXvHYOTtWKZxW6X6rHsj3AMLgRBPOVLNR2UJSE7rKZILc8AzW5AKU14D1MpA9Ol4w2tVmtBdhyUGwJxNOnXi7YYlVSPMC_nXUEk0mLpdZJK_FJEbGM215opZ8fw8T5aIK8CW5LXEsCh-WBYMtmTg4hd4WK3pGh2b309fcmlBm1kwLPn_3L2iRodjhHAn5kx6JiOmR2-h0ydbnk1_Gg8a7QDM2vaOj_fWyN6hfvkomqotR6onevhvuhVEr6IcVNM-H_Nh7-AeieAj6nYB0P56fPP6JnPbb0u6ZHxWbgicvhUqVwF6ET2U90Lk3uSfQQQp9kmwfsId4iNI3qpEyb9-f2btwoRAvxuK_UsgISqdv_BlofkiAq-x24n8T20X9WaMs5Asx_jVHaTcN6XU45miaaoLVOvEKUQzwcnDV26iajzP3yHPf6s2eY6ye9OFuIGKs26B4bDCu6sMngglZ_jvmswulT0h8xqq2LvmPwOq6VdbQHtK4jiUEsxYYK2CrpkBeuAMgai7NBBaHShcB2gWDq8ABEE5DZNI6-ibMe3TIN_WObaxnCdjrYelwZwz1dNBHJWYB6fkkGIRKWwEZuJFNMUo35FJJm8-jB5ck1b5J0D6sop5pYsBlUh7LpNpxj8gEA4r6EL4NOey2-F38aKZiaYC9PSuy-MVfq--2pZX0XCDoq0NCiNXIZxAgJDmugRJP7c5bXsjszX2V11IKGKhBWAp0bQPHOEw0lqSMZ0WstWptoxyjFFtvwtv4gGJNTM90U_lPaab9ytHhg1B-fcx8qjX-grxD4FD1YFOZn0wnWfkvF4rXhAG0JIBBhvvfL9PbXAWkA=w473-h840-s-no-gm?authuser=0" alt="img" width="300" height="540">
+  <img src="https://res.cloudinary.com/dxsornfee/image/upload/v1713339726/P_20180913_170734_nispjc.jpg" alt="img" width="300" height="540">
 
-  <img src="https://lh3.googleusercontent.com/pw/AP1GczNOsRhP3sebGplmM36RbWUZN5f3BZHbjyosL8Loczgv8v06F_kVimKeIJenOpK_T3MQrzbB_ave6gHJpdNz5uIRcoZFnxs2sRfxMEhqXeqHuYRlrsDWqb_420TC-0zfqu1Ef8x7S4M8DbG-peTa93Dvr-PNVHHwbH5AQqGeTrdwkoh8v2MSjzL2JWHtK90WU7OtvbK8zBw7JjQTtOZU9YFaCFWV5XKPjwt-nC0YykNLHYvFQ6Nrqovj0hv7atso3HdT_mHxvYKnx7VV4Y0llt--myqSoJCLLliprmLuAOirAMnuqUd6pcFnOVZgXXoeUbUfTOVq5U0DyYxUcomewo0CuAKwXdXz_MNUJ1eHdUJY0IilgogwBnR3zL2Ofq7MZ_9uTywIby0kUvSZDl373OUb8hCOCMJpL9icBogyzF1JTjbKyDEjM9XKVe4xoRwLm-6_ts6Mt-mbSyo7XchS2mZhgr9l1yPJ9RaamZ_qfc3-9WXlOB1sdIqvzFnh_GKT56s_AQEOoWfcPBFMQX20Vy-F7OXkLqxrmMwDZFoAXzsogQK8W8pkNoBLSyZjcFSqz1-0FdLOiaArKP8lvytkixXizxHVFYti2Yim4eqX_Vt_VA-5oXyLRJxKYtfUZRg8dYHnfdafYao-8kaJsBMfb9UntlWVIe9qDJxPVxt71gM2VQWvGBURrs7oq33zPEiNELI4qNAMdi_zXuZC9hILIdNZXfj-4CB_Q7UIXooCphVQupHFG40h8DLK5G0pXuq_rEtzYbXndHwE1aVz10ucU9RJcfwHw8QlqRciMUHW8WRE9yr7H_sLNiOdulOUi8EBuhR-1PrKkl75ryWpDj5ZpUMWwvy3J7aJQIhC8XLEyT6XoNqBWKDnP25DV7sA8bAC60cvFa5tXGmu-xiHn58xA7aj=w1493-h840-s-no-gm?authuser=0" alt="img" width="300" height="540">
+  <img src="https://res.cloudinary.com/dxsornfee/image/upload/v1713339713/P_20180914_112223-01_aq60ii.jpg" alt="img" width="300" height="540">
 
   <img src="https://res.cloudinary.com/dxsornfee/image/upload/v1713278879/V_20180914_102016-ezgif.com-video-to-gif-converter_bifb9b.gif" alt="gif" width="300" height="540">
 </div>
@@ -62,15 +62,15 @@ This exposure allowed us to experience different work cultures, which come with 
 
 There was a time we are tasked to build an MVP of an EdTech platform. But it lasted 24 months.
 
-There was also a time when we are tasked to built a talent marketplace MVP. It started as a web app, then an Android app, and then React Native.. The project ran for almost 3 years.
+There was also a time when we are tasked to build a talent marketplace MVP. It started as a web app, then an Android app, and then React Native.. The project ran for almost 3 years.
 
 Another is a updating a website that lasted for 2 years because of multiple decision makers, all for the name of corporate bureaucracy.
 
 I'll let you guess which one is a startup and which one is not. But the point is, woes can happen regardless of the work culture.
 
-These experiences show that software projects can go as long they can. Lack of intricacies and inefficiencies in communication came to play as well. Benefits the agency to some degree I would say, but you can only imagine how many tries we made just to rebuild those "MVPs", or how long meetings can get with 10-15 decision makers on board.
+These experiences show that software projects can go as long they can. Lack of intricacies and inefficiencies in communication came to play as well. Benefits the agency to some degree I would say, but you can only imagine how many sprints it took because we have to rebuild those "MVPs", or how long meetings can get with 10-15 decision makers on board.
 
-I witnessed so many pivots and 6 hour meetings, unnecessary work rendered and time wasted. Cheap rates do not help, so we try to compensate by letting the projects go as long they can, and take extra clients even if it's beyond our capacity. It is a way to become competitive and hit revenue targets, especially in the local market of one of the outsourcing capitals of the world.
+I witnessed so many pivots and 6 hour meetings, unnecessary work rendered and time wasted. Cheap rates do not help, so we try to compensate by letting the projects go as long they can, and take extra clients even if it's beyond our capacity. It is a way to become competitive and hit revenue targets, especially being in the local market of one of the outsourcing capitals of the world.
 
 #### The beauty
 
@@ -84,7 +84,7 @@ Yup, zero experience. I still remember the day when one of our clients, who is a
 
 We also get a chance to see a glimpse of the decisions behind the intricacies of a business — whether it's marketing, sales, technical, budgets, you name it.
 
-We also get to see professionals in action. One of my favorites are the creatives, their work is super cool, it's always amazing to see how they collaborate.
+We also get to see professionals in action. One of my favorites are the creatives, primarily because I find their work super cool, and it's always amazing to see how they collaborate.
 
 Heck, we even dealt with managing Google Ads, handling Social Media accounts, editing marketing materials, and overseeing media production such as voice overs.
 
@@ -116,7 +116,7 @@ I remember [Paul Xue](https://x.com/pxue), who is a fellow maker and a dev agenc
 
 It makes sense. If you think you can't start on your own (yet), then it's perfectly fine to work for someone else — someone who's doing it already.
 
-Better yet, work for someone who made it, just like Paul.
+Better yet, work for someone who made it already, just like Paul who scaled his solo dev agency to 500k/year.
 
 #### or, by starting on your own..
 
@@ -149,7 +149,7 @@ Let me tell you, his vision is great: To onboard as much people as he can in the
 So far, he is doing a solid job: He, along with countless agency people that he talked with, has built a community of agency owners.
 
 The community will act as a space where everyone can share and exchange their experiences and knowledge.
-The community's mission is to help devs who wanted to run their dev agencies get their feet set.
+One of the community's goals is to help devs who wanted to run their dev agencies get their feet set.
 
 So, if you want to start your own dev agency, or a seasoned one wanting to discover likeminded people, the community has your back.
 
