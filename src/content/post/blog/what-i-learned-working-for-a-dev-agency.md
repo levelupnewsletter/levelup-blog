@@ -151,7 +151,7 @@ So far, he is doing a solid job: He, along with countless agency people that he 
 The community will act as a space where everyone can share and exchange their experiences and knowledge.
 One of the community's goals is to help devs who wanted to run their dev agencies get their feet set.
 
-So, if you want to start your own dev agency, or a seasoned one wanting to discover likeminded people, the community has your back.
+So, if you want to start your own dev agency, or you are a seasoned agency owner wanting to discover likeminded people, the community has your back.
 
 You can check the playbook and the community below:
 
