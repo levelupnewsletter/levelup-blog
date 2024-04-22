@@ -8,6 +8,7 @@ tags:
 category: blog
 metadata:
   canonical: https://levelup.news/blog/what-i-learned-working-for-dev-agency
+author: Level Up! Founders
 ---
 
 <span class="text-sm italic">

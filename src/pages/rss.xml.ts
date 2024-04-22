@@ -24,6 +24,7 @@ export const GET = async () => {
       title: post.title,
       description: post.excerpt,
       pubDate: post.publishDate,
+      author: post.author
     })),
 
     trailingSlash: SITE.trailingSlash,
