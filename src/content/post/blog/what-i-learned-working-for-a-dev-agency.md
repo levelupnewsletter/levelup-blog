@@ -17,6 +17,8 @@ Photo by <a href="https://unsplash.com/@priscilladupreez?utm_content=creditCopyT
 
 _This post is also posted on [dev.to](https://dev.to/raymelon/work-with-a-dev-agency-better-yet-start-one-5gp4), [Hashnode](https://raymel.hashnode.dev/work-with-a-dev-agency-better-yet-start-one)_
 
+---
+
 Maybe you're a new dev, or an aspiring one, or simply deciding which path to take.
 
 Is it really true that working on a dev agency allows you to experience it all? Is that enough to consider it a legitimate path?
