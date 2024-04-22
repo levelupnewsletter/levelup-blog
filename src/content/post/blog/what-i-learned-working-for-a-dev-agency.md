@@ -15,6 +15,8 @@ author: Level Up! Founders
 Photo by <a href="https://unsplash.com/@priscilladupreez?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Priscilla Du Preez 🇨🇦</a> on <a href="https://unsplash.com/photos/three-men-laughing-while-looking-in-the-laptop-inside-room-XkKCui44iM0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 </span>
 
+_This post is also posted on [dev.to](https://dev.to/raymelon/work-with-a-dev-agency-better-yet-start-one-5gp4), [Hashnode](https://raymel.hashnode.dev/work-with-a-dev-agency-better-yet-start-one)_
+
 Maybe you're a new dev, or an aspiring one, or simply deciding which path to take.
 
 Is it really true that working on a dev agency allows you to experience it all? Is that enough to consider it a legitimate path?
