@@ -147,7 +147,7 @@ If you are not confident yet, then work for an agency owner and build your knowl
 
 Our fellow maker and agency owner in [Paul Xue](https://x.com/pxue) has scaled his solo dev agency to 500k/year. For the past few months, he talked to agency owners, where they exchanged their own experiences and practical advices, which helped him validate his own experience in running his own dev agency.
 
-He did all of these so that he can deliver a [dev agency playbook](https://500k.agency) that is accurate and up to date.
+He did all of these so that he can deliver a [dev agency playbook](https://500k.agency/?ref=levelup) that is accurate and up to date.
 
 Let me tell you, his vision is great: To onboard as much people as he can in the dev agency life.
 
@@ -160,9 +160,9 @@ So, if you want to start your own dev agency, or you are a seasoned agency owner
 
 You can check the playbook and the community below:
 
-> [500k.agency](https://500k.agency) is your practical guide in building Solo Dev Agencies. Use code _MICROLAUNCH_ for 20% off your purchase. 🚀
+> [500k.agency](https://500k.agency/?ref=levelup) is your practical guide in building Solo Dev Agencies. Use code _MICROLAUNCH_ for 20% off your purchase. 🚀
 >
-> Head to [500k.agency](https://500k.agency) to learn more. 🚀
+> Head to [500k.agency](https://500k.agency/?ref=levelup) to learn more. 🚀
 
 <!-- My recount goes back to my third year as a Computer Science student, in one of the state universities in the Philippines.
 

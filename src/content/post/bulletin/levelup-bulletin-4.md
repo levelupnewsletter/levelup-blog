@@ -33,9 +33,9 @@ Thank for your support! 🙏
 
 _ICYMI:_ [_Welcome to the first bulletin of Level Up Newsletter!_](http://levelup.news/bulletin/welcome-to-the-first-bulletin)
 
-> **Featured Product:** [500k.agency](https://500k.agency) is your practical guide in building Solo Dev Agencies. Use code _MICROLAUNCH_ for 20% off your purchase. 🚀
+> **Featured Product:** [500k.agency](https://500k.agency/?ref=levelup) is your practical guide in building Solo Dev Agencies. Use code _MICROLAUNCH_ for 20% off your purchase. 🚀
 >
-> Head to [500k.agency](https://500k.agency) to learn more. 🚀
+> Head to [500k.agency](https://500k.agency/?ref=levelup) to learn more. 🚀
 
 ### Monthly learnings: I killed my momentum this March.
 
@@ -124,9 +124,9 @@ Revamping the landing page copy and design as well [4.](#4-landing-page-needs-im
 
 And move on to other projects and endeavors.
 
-> **Featured Product:** [500k.agency](https://500k.agency) is your practical guide in building Solo Dev Agencies. Use code _MICROLAUNCH_ for 20% off your purchase. 🚀
+> **Featured Product:** [500k.agency](https://500k.agency/?ref=levelup) is your practical guide in building Solo Dev Agencies. Use code _MICROLAUNCH_ for 20% off your purchase. 🚀
 >
-> Head to [500k.agency](https://500k.agency) to learn more. 🚀
+> Head to [500k.agency](https://500k.agency/?ref=levelup) to learn more. 🚀
 
 ### Weekly curated tech news - Featuring XZ Backdoor
 
@@ -258,9 +258,9 @@ Enjoy!
 
 _[NEW: How I handpick tweets for my bulletins](https://levelup.news/blog/how-i-handpick-tweets-for-my-bulletins)_
 
-> **Featured Product:** [500k.agency](https://500k.agency) is your practical guide in building Solo Dev Agencies. Use code _MICROLAUNCH_ for 20% off your purchase. 🚀
+> **Featured Product:** [500k.agency](https://500k.agency/?ref=levelup) is your practical guide in building Solo Dev Agencies. Use code _MICROLAUNCH_ for 20% off your purchase. 🚀
 >
-> Head to [500k.agency](https://500k.agency) to learn more. 🚀
+> Head to [500k.agency](https://500k.agency/?ref=levelup) to learn more. 🚀
 
 Alright, we are done with our bulletin today.
 

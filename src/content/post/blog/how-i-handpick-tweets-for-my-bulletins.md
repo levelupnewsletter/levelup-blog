@@ -16,9 +16,9 @@ For those who subscribed on my newsletter, it is pretty common to see handpicked
 
 On this article, I am sharing parts of my workflow on handpicking tweets.
 
-> **Featured Product:** [500k.agency](https://500k.agency) is your practical guide in building Solo Dev Agencies. Use code _MICROLAUNCH_ for 20% off your purchase. 🚀
+> **Featured Product:** [500k.agency](https://500k.agency/?ref=levelup) is your practical guide in building Solo Dev Agencies. Use code _MICROLAUNCH_ for 20% off your purchase. 🚀
 >
-> Head to [500k.agency](https://500k.agency) to learn more. 🚀
+> Head to [500k.agency](https://500k.agency/?ref=levelup) to learn more. 🚀
 
 ### Reducing Friction
 
@@ -97,9 +97,9 @@ I will share updates of my workflow, as I continue to improve my automation work
 
 If you find this helpful, feel free to share it to your friends!
 
-> **Featured Product:** [500k.agency](https://500k.agency) is your practical guide in building Solo Dev Agencies. Use code _MICROLAUNCH_ for 20% off your purchase. 🚀
+> **Featured Product:** [500k.agency](https://500k.agency/?ref=levelup) is your practical guide in building Solo Dev Agencies. Use code _MICROLAUNCH_ for 20% off your purchase. 🚀
 >
-> Head to [500k.agency](https://500k.agency) to learn more. 🚀
+> Head to [500k.agency](https://500k.agency/?ref=levelup) to learn more. 🚀
 
 ---
 

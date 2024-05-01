@@ -20,9 +20,9 @@ Whether it's lack of knowledge and experience, or other reasons, sometimes we do
 
 Before you continue:
 
-> [500k.agency](https://500k.agency) is your practical guide in building Solo Dev Agencies. Use code _MICROLAUNCH_ for 20% off your purchase. 🚀
+> [500k.agency](https://500k.agency/?ref=levelup) is your practical guide in building Solo Dev Agencies. Use code _MICROLAUNCH_ for 20% off your purchase. 🚀
 >
-> Head to [500k.agency](https://500k.agency) to learn more. 🚀
+> Head to [500k.agency](https://500k.agency/?ref=levelup) to learn more. 🚀
 
 ### Shifting my audience
 
@@ -131,9 +131,9 @@ See what people are saying:
 
 Before you go...
 
-> [500k.agency](https://500k.agency) is your practical guide in building Solo Dev Agencies. Use code _MICROLAUNCH_ for 20% off your purchase. 🚀
+> [500k.agency](https://500k.agency/?ref=levelup) is your practical guide in building Solo Dev Agencies. Use code _MICROLAUNCH_ for 20% off your purchase. 🚀
 >
-> Head to [500k.agency](https://500k.agency) to learn more. 🚀
+> Head to [500k.agency](https://500k.agency/?ref=levelup) to learn more. 🚀
 
 ---
 
