@@ -8,6 +8,7 @@ import { findLatestPosts } from '~/utils/blog';
 import WidgetWrapper from '~/components/ui/WidgetWrapper.astro';
 import type { Widget } from '~/types';
 import Button from '../ui/Button.astro';
+import { twMerge } from 'tailwind-merge';
 
 export interface Props extends Widget {
   title?: string;
