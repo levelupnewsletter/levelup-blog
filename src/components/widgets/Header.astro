@@ -146,9 +146,12 @@ const currentPath = `/${trimSlash(new URL(Astro.url).pathname)}`;
         </div>
         {
           actions?.length ? (
-            <span id="headerActions" class="ml-4 rtl:ml-0 rtl:mr-4">
+            <span id="headerActions" class="ml-4 rtl:ml-0 rtl:mr-4 hidden">
               {actions.map((btnProps) => (
-                <Button {...btnProps} class="ml-2 py-2.5 px-5.5 md:px-6 font-semibold shadow-none text-sm w-auto" />
+                <Button
+                  {...btnProps}
+                  class="dark:border-amber-200 ml-2 py-2.5 px-5.5 md:px-6 font-semibold shadow-none text-sm w-auto"
+                />
               ))}
             </span>
           ) : (
@@ -167,7 +170,7 @@ const currentPath = `/${trimSlash(new URL(Astro.url).pathname)}`;
     const element = this.document.querySelector('#headerActions');
 
     if (scrollPosition > 460) {
-      console.log('show button');
+      console.log('show button', { scrollPosition });
       element.classList.remove('hidden');
     } else {
       element.classList.add('hidden');

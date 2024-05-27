@@ -65,11 +65,22 @@ import { UI } from '~/utils/config';
     });
 
     attachEvent('[data-aw-toggle-color-scheme]', 'click', function () {
+      const itsFreeImageElement = document.getElementById('its-free-image');
+      console.log({ ['itsFreeImageElement.src']: itsFreeImageElement.src });
+
       if (defaultTheme.endsWith(':only')) {
         return;
       }
       document.documentElement.classList.toggle('dark');
       localStorage.theme = document.documentElement.classList.contains('dark') ? 'dark' : 'light';
+
+      if (localStorage.theme === 'dark') {
+        itsFreeImageElement.src =
+          'https://res.cloudinary.com/dxsornfee/image/upload/v1716793698/it_s_Free___1_-removebg-preview_bnliqd.png';
+      } else {
+        itsFreeImageElement.src =
+          'https://res.cloudinary.com/dxsornfee/image/upload/v1716805649/it_s_Free___2_-removebg-preview_1_i7vfyl.png';
+      }
     });
 
     attachEvent('[data-aw-social-share]', 'click', function (_, elem) {

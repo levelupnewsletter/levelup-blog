@@ -125,7 +125,7 @@ export const headerData = {
     },
     // {
   ],
-  actions: [{ text: 'Subscribe to Newsletter', href: '#', "data-eo-form-toggle-id": "adf19cae-dd6a-11ee-97ab-2b51af71a780" }],
+  actions: [{ text: 'Join the Newsletter', href: '#', "data-eo-form-toggle-id": "adf19cae-dd6a-11ee-97ab-2b51af71a780" }],
 };
 
 export const footerData = {
@@ -178,7 +178,7 @@ export const footerData = {
   secondaryLinks: [
     // { text: 'Terms', href: getPermalink('/terms') },
     // { text: 'Privacy Policy', href: getPermalink('/privacy') },
-    { text: 'Subscribe to Newsletter', href: "#", "data-eo-form-toggle-id": "adf19cae-dd6a-11ee-97ab-2b51af71a780" },
+    { text: 'Join the Newsletter', href: "#", "data-eo-form-toggle-id": "adf19cae-dd6a-11ee-97ab-2b51af71a780" },
   ],
   socialLinks: [
     { ariaLabel: 'X', icon: 'tabler:brand-x', href: 'https://x.com/pseudokid' },
