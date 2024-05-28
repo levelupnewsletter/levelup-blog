@@ -126,9 +126,14 @@ const posts = APP_BLOG.isEnabled ? await findLatestPosts({ count }) : [];
             src="https://unavatar.io/twitter/lewisbuildsai"
             alt=""
           />
+          <img
+            class="h-8 w-8 rounded-full ring-2 ring-indigo-700 dark:ring-white"
+            src="https://unavatar.io/twitter/thiswillblossom"
+            alt=""
+          />
         </div>
       </div>
-      <div class="flex justify-center mb-10 text-xs">Over 48 creators and founders have joined!</div>
+      <div class="flex justify-center mb-10 text-xs">Over 53 creators and founders have joined!</div>
       <Grid posts={posts} />
     </WidgetWrapper>
   ) : (

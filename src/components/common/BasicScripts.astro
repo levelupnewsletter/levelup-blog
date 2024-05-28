@@ -159,6 +159,17 @@ import { UI } from '~/utils/config';
     document.getElementById('header')?.classList.remove('h-screen');
     document.getElementById('header')?.classList.remove('expanded');
     document.querySelector('#header nav')?.classList.add('hidden');
+
+    // delay is intentional :)
+
+    const itsFreeImageElement = document.getElementById('its-free-image');
+    if (localStorage.theme === 'dark') {
+      itsFreeImageElement.src =
+        'https://res.cloudinary.com/dxsornfee/image/upload/v1716793698/it_s_Free___1_-removebg-preview_bnliqd.png';
+    } else {
+      itsFreeImageElement.src =
+        'https://res.cloudinary.com/dxsornfee/image/upload/v1716805649/it_s_Free___2_-removebg-preview_1_i7vfyl.png';
+    }
   };
 
   window.onload = onLoad;
